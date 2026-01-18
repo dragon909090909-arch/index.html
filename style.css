@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background: #f0f0f0;
+  font-family: Arial;
+}
+
+canvas {
+  border: 2px solid black;
+  background: white;
+  margin-top: 10px;
+}
+
+.tools {
+  margin-top: 10px;
+}
